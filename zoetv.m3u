@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」CS 2
-http://live.iill.top/bilibili.php?id=21622811
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」英雄联盟
-http://live.iill.top/bilibili.php?id=6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•TNT",「B站」CS 2
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•CCTV5",「B站」英雄联盟
+https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟙
 http://live.iill.top/huya.php?id=660000
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟚
