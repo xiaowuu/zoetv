@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1「IPV6」
+#EXTINF:-1 tvg-name="hockey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s" group-title="TNT",TNT」
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-IPV6」
+TNT」
