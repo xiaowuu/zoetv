@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-name="hockey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s" group-title="TNT",TNT」
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
 TNT」
+#EXTINF:-2 tvg-name="CCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s" group-title="CCTV",CCTV」
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+CCTV」
