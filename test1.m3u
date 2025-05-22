@@ -15,3 +15,5 @@ https://streamer1.nexgen.bz/TBS/index.m3u8
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOXSports 
 http://fl5.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
