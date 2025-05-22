@@ -1,10 +1,7 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-name="hockey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s" group-title="TNT",TNT」
+#EXTM3U
+#EXTINF:-1 tvg-name="Hockey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s" group-title="TNT",TNT
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-TNT」
-#EXTINF:-2 tvg-name="CCTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/deruj54-ae693061-ce77-4e19-864d-690f09037ea2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVydWo1NC1hZTY5MzA2MS1jZTc3LTRlMTktODY0ZC02OTBmMDkwMzdlYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lwedPtchbb5UUvYAJZnkrIcoV9DUelo_aUwwFCj6z6I" group-title="CCTV",CCTV」
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视IPV6",CCTV5
 https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
-CCTV」
-#EXTINF:-3 tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Im0xJ49JLTG8rXCbAzX_yNbmEaPFBqN5TFd3Ipbg5g&s" group-title="NBA",NBA」
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="NBA",NBA
 https://fl5.moveonjoy.com/NBA_TV/index.m3u8
-NBA」
