@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s",TNT 
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s",TNT 
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5 
+#EXTINF:-1 group-title="Test" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5 
 https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA 
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA 
 https://fl5.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN 
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN 
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png",TBS 
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png",TBS 
 https://streamer1.nexgen.bz/TBS/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",TRUTV 
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",TRUTV 
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOXSports 
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOXSports 
 http://fl5.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN 
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
