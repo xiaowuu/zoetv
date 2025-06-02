@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQj7E3FQDZuUGE0rz0GJeHbCaCk5enu9VZHGaXXKs7g&s",TNT 
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5 
-https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA 
 https://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN 
@@ -25,5 +23,3 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CityNews_logo.svg/2560px-CityNews_logo.svg.png",CityNews
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/HGTV_Logo.jpg",HGTV
-https://i.mjh.nz/.r/discovery-hgtv.m3u8
