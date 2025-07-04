@@ -1,0 +1,234 @@
+[
+    {
+        "findUrl": "{\"url\":\"/k/{{id}}-{{area}}--{{type}}-----{{page}}---{{year}}/\",\"classify\":[{\"id\":1,\"name\":\"电影\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"id\":6,\"name\":\"动作片\"},{\"id\":7,\"name\":\"喜剧片\"},{\"id\":8,\"name\":\"爱情片\"},{\"id\":9,\"name\":\"科幻片\"},{\"id\":10,\"name\":\"奇幻片\"},{\"id\":11,\"name\":\"恐怖片\"},{\"id\":12,\"name\":\"剧情片\"},{\"id\":20,\"name\":\"战争片\"},{\"id\":21,\"name\":\"纪录片\"},{\"id\":26,\"name\":\"动画片\"},{\"id\":22,\"name\":\"悬疑片\"},{\"id\":23,\"name\":\"冒险片\"},{\"id\":24,\"name\":\"犯罪片\"},{\"id\":45,\"name\":\"惊悚片\"},{\"id\":46,\"name\":\"歌舞片\"},{\"id\":47,\"name\":\"灾难片\"},{\"id\":48,\"name\":\"网络片\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"喜剧\"},{\"name\":\"爱情\"},{\"name\":\"恐怖\"},{\"name\":\"动作\"},{\"name\":\"科幻\"},{\"name\":\"剧情\"},{\"name\":\"战争\"},{\"name\":\"警匪\"},{\"name\":\"犯罪\"},{\"name\":\"动画\"},{\"name\":\"奇幻\"},{\"name\":\"武侠\"},{\"name\":\"冒险\"},{\"name\":\"枪战\"},{\"name\":\"恐怖\"},{\"name\":\"悬疑\"},{\"name\":\"惊悚\"},{\"name\":\"经典\"},{\"name\":\"青春\"},{\"name\":\"文艺\"},{\"name\":\"微电影\"},{\"name\":\"古装\"},{\"name\":\"历史\"},{\"name\":\"运动\"},{\"name\":\"农村\"},{\"name\":\"儿童\"},{\"name\":\"网络电影\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"},{\"name\":\"香港\"},{\"name\":\"台湾\"},{\"name\":\"美国\"},{\"name\":\"法国\"},{\"name\":\"英国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"德国\"},{\"name\":\"泰国\"},{\"name\":\"印度\"},{\"name\":\"意大利\"},{\"name\":\"西班牙\"},{\"name\":\"加拿大\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010-2000\"},{\"name\":\"90年代\"},{\"name\":\"80年代\"},{\"name\":\"更早\"}]}}},{\"id\":2,\"name\":\"电视剧\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"id\":13,\"name\":\"国产剧\"},{\"id\":14,\"name\":\"港台剧\"},{\"id\":15,\"name\":\"日剧\"},{\"id\":33,\"name\":\"韩剧\"},{\"id\":16,\"name\":\"欧美剧\"},{\"id\":34,\"name\":\"泰剧\"},{\"id\":35,\"name\":\"新马剧\"},{\"id\":25,\"name\":\"其他剧\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"古装\"},{\"name\":\"战争\"},{\"name\":\"青春偶像\"},{\"name\":\"喜剧\"},{\"name\":\"家庭\"},{\"name\":\"动作\"},{\"name\":\"犯罪\"},{\"name\":\"奇幻\"},{\"name\":\"剧情\"},{\"name\":\"历史\"},{\"name\":\"经典\"},{\"name\":\"乡村\"},{\"name\":\"情景\"},{\"name\":\"商战\"},{\"name\":\"网剧\"},{\"name\":\"其他\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"},{\"name\":\"香港\"},{\"name\":\"台湾\"},{\"name\":\"美国\"},{\"name\":\"法国\"},{\"name\":\"英国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"德国\"},{\"name\":\"泰国\"},{\"name\":\"印度\"},{\"name\":\"意大利\"},{\"name\":\"西班牙\"},{\"name\":\"加拿大\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010-2000\"},{\"name\":\"90年代\"},{\"name\":\"80年代\"},{\"name\":\"更早\"}]}}},{\"id\":3,\"name\":\"综艺\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"id\":27,\"name\":\"内地综艺\"},{\"id\":28,\"name\":\"港台综艺\"},{\"id\":29,\"name\":\"日本综艺\"},{\"id\":36,\"name\":\"韩国综艺\"},{\"id\":30,\"name\":\"欧美综艺\"},{\"id\":37,\"name\":\"新马泰综艺\"},{\"id\":38,\"name\":\"其他综艺\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"选秀\"},{\"name\":\"情感\"},{\"name\":\"访谈\"},{\"name\":\"播报\"},{\"name\":\"旅游\"},{\"name\":\"音乐\"},{\"name\":\"美食\"},{\"name\":\"纪实\"},{\"name\":\"曲艺\"},{\"name\":\"生活\"},{\"name\":\"游戏互动\"},{\"name\":\"财经\"},{\"name\":\"求职\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"内地\"},{\"name\":\"港台\"},{\"name\":\"日韩\"},{\"name\":\"欧美\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010-2000\"},{\"name\":\"90年代\"},{\"name\":\"80年代\"},{\"name\":\"更早\"}]}}},{\"id\":4,\"name\":\"动漫\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"id\":31,\"name\":\"国产动漫\"},{\"id\":32,\"name\":\"日本动漫\"},{\"id\":39,\"name\":\"韩国动漫\"},{\"id\":40,\"name\":\"港台动漫\"},{\"id\":41,\"name\":\"新马泰动漫\"},{\"id\":42,\"name\":\"欧美动漫\"},{\"id\":43,\"name\":\"其他动漫\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"情感\"},{\"name\":\"科幻\"},{\"name\":\"热血\"},{\"name\":\"推理\"},{\"name\":\"搞笑\"},{\"name\":\"冒险\"},{\"name\":\"萝莉\"},{\"name\":\"校园\"},{\"name\":\"动作\"},{\"name\":\"机战\"},{\"name\":\"运动\"},{\"name\":\"战争\"},{\"name\":\"少年\"},{\"name\":\"少女\"},{\"name\":\"社会\"},{\"name\":\"原创\"},{\"name\":\"亲子\"},{\"name\":\"益智\"},{\"name\":\"励志\"},{\"name\":\"其他\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"国产\"},{\"name\":\"日本\"},{\"name\":\"欧美\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010-2000\"},{\"name\":\"90年代\"},{\"name\":\"80年代\"},{\"name\":\"更早\"}]}}}]}",
+        "formVerificationFailed": false,
+        "importType": 0,
+        "isEnable": true,
+        "isFind": true,
+        "lastUpdate": 1745318178612,
+        "listOrder": 0,
+        "ruleDetail": {
+            "classify": "",
+            "director": "//span[text()='导演：']/..//a/text()",
+            "imageUrl": "class.ls-is-cached@data-original",
+            "intro": "class.module-info-introduction-content@text",
+            "name": "tag.h1@text",
+            "playPageUrl": "",
+            "starring": "//span[text()='主演：']/..//a/text()",
+            "status": "//span[text()='连载：']/../div/text()",
+            "updateTime": "//span[text()='更新：']/../div/text()"
+        },
+        "ruleFind": {
+            "classify": "",
+            "detailUrl": "tag.a@href",
+            "director": "",
+            "imageUrl": "tag.img@data-original",
+            "intro": "",
+            "name": "class.module-poster-item-title@text",
+            "pageSize": "40",
+            "starring": "",
+            "status": "class.module-item-note@text",
+            "updateTime": "",
+            "videoList": "class.module-poster-item"
+        },
+        "rulePlay": {
+            "urlRegex": "",
+            "webJs": ""
+        },
+        "rulePlayList": {
+            "lineList": "id.y-playList@tag.span",
+            "lineName": "text",
+            "playList": "class.his-tab-list",
+            "playUrl": "tag.a@href",
+            "playUrlList": "tag.a",
+            "playUrlName": "tag.span@text"
+        },
+        "ruleSearch": {
+            "classify": "",
+            "detailUrl": "class.module-card-item-poster@href",
+            "director": "",
+            "imageUrl": "tag.img@data-original",
+            "intro": "",
+            "name": "tag.strong@text",
+            "starring": "",
+            "status": "class.module-item-note@text",
+            "updateTime": "",
+            "videoList": "class.module-card-item"
+        },
+        "searchUrl": "/s/{{key}}----------{{page}}---/",
+        "sourceName": "爱壹帆",
+        "sourceUrl": "https://www.iyf.lv"
+    },
+    {
+        "findUrl": "{\"url\":\"/vshow/{{id}}--------{{page}}---.html\",\"classify\":[{\"id\":0,\"name\":\"电影\",\"alias\":\"dianying\",\"subClassify\":{\"name\":\"分类\",\"values\":[{\"name\":\"动作片\",\"alias\":\"zilei1\"},{\"name\":\"喜剧片\",\"alias\":\"zilei2\"},{\"name\":\"爱情片\",\"alias\":\"zilei3\"},{\"name\":\"科幻片\",\"alias\":\"zilei4\"},{\"name\":\"恐怖片\",\"alias\":\"zilei5\"},{\"name\":\"剧情片\",\"alias\":\"zilei6\"},{\"name\":\"战争片\",\"alias\":\"zilei7\"},{\"name\":\"纪录片\",\"alias\":\"jilupian\"},{\"name\":\"其他\",\"alias\":\"qita\"}]},\"filter\":{\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"}]}}},{\"id\":0,\"name\":\"电视剧\",\"alias\":\"dianshiju\",\"subClassify\":{\"name\":\"分类\",\"values\":[{\"name\":\"国产剧\",\"alias\":\"zilei8\"},{\"name\":\"港台剧\",\"alias\":\"zilei9\"},{\"name\":\"日韩剧\",\"alias\":\"zilei10\"},{\"name\":\"欧美剧\",\"alias\":\"zilei11\"},{\"name\":\"海外剧\",\"alias\":\"haiwaiju\"}]},\"filter\":{\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"}]}}},{\"id\":0,\"name\":\"综艺\",\"alias\":\"zongyi\",\"filter\":{\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"}]}}},{\"id\":0,\"name\":\"动漫\",\"alias\":\"dongman\",\"filter\":{\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"}]}}}]}",
+        "formVerificationFailed": false,
+        "importType": 0,
+        "isEnable": true,
+        "isFind": true,
+        "lastUpdate": 1745317427621,
+        "listOrder": 0,
+        "ruleDetail": {
+            "classify": "//label[text()='类型：']/../span/text()",
+            "director": "class.director@text##导演：",
+            "imageUrl": "class.thumb-wrap@tag.img@data-original",
+            "intro": "",
+            "name": "tag.h1@text",
+            "playPageUrl": "",
+            "starring": "class.performer@text##主演：",
+            "status": "//label[text()='资源：']/../span/text()",
+            "updateTime": "//label[text()='更新：']/../span/text()"
+        },
+        "ruleFind": {
+            "classify": "",
+            "detailUrl": "tag.a@href",
+            "director": "",
+            "imageUrl": "tag.img@data-original",
+            "intro": "",
+            "name": "tag.h5@text",
+            "pageSize": "36",
+            "starring": "",
+            "status": "class.state@text",
+            "updateTime": "",
+            "videoList": "class.new-up-list@tag.li"
+        },
+        "rulePlayList": {
+            "lineList": "class.nav-tabs@tag.li",
+            "lineName": "tag.a@text",
+            "playList": "class.episodes-list",
+            "playUrl": "tag.a@href",
+            "playUrlList": "tag.li@tag.a",
+            "playUrlName": "text"
+        },
+        "ruleSearch": {
+            "classify": "",
+            "detailUrl": "tag.a@href",
+            "director": "",
+            "imageUrl": "tag.img@data-original",
+            "intro": "",
+            "name": "tag.h5@text",
+            "starring": "",
+            "status": "class.state@text",
+            "updateTime": "",
+            "videoList": "class.new-up-list@tag.li"
+        },
+        "searchUrl": "/vsearch/{{key}}----------{{page}}---.html",
+        "sourceName": "雪糕TV",
+        "sourceUrl": "https://www.xgitv.com"
+    },
+    {
+        "findUrl": "{\"url\":\"/pianku-{{id}}-{{area}}--{{type}}-----{{page}}---{{year}}.html\",\"classify\":[{\"id\":1,\"alias\":\"dianying\",\"name\":\"电影\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"alias\":\"action\",\"name\":\"动作片\"},{\"alias\":\"xiju\",\"name\":\"喜剧片\"},{\"alias\":\"romance\",\"name\":\"爱情片\"},{\"alias\":\"science\",\"name\":\"科幻片\"},{\"alias\":\"horror\",\"name\":\"恐怖片\"},{\"alias\":\"feature\",\"name\":\"剧情片\"},{\"alias\":\"war\",\"name\":\"战争片\"},{\"alias\":\"cartoon\",\"name\":\"动画片\"},{\"alias\":\"qihuan\",\"name\":\"奇幻片\"},{\"alias\":\"jilupian\",\"name\":\"纪录片\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"喜剧\"},{\"name\":\"爱情\"},{\"name\":\"恐怖\"},{\"name\":\"动作\"},{\"name\":\"科幻\"},{\"name\":\"剧情\"},{\"name\":\"战争\"},{\"name\":\"警匪\"},{\"name\":\"犯罪\"},{\"name\":\"动画\"},{\"name\":\"奇幻\"},{\"name\":\"武侠\"},{\"name\":\"冒险\"},{\"name\":\"枪战\"},{\"name\":\"悬疑\"},{\"name\":\"惊悚\"},{\"name\":\"经典\"},{\"name\":\"青春\"},{\"name\":\"文艺\"},{\"name\":\"微电影\"},{\"name\":\"古装\"},{\"name\":\"历史\"},{\"name\":\"运动\"},{\"name\":\"农村\"},{\"name\":\"儿童\"},{\"name\":\"网络电影\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"中国大陆\"},{\"name\":\"中国香港\"},{\"name\":\"中国台湾\"},{\"name\":\"中国澳门\"},{\"name\":\"美国\"},{\"name\":\"法国\"},{\"name\":\"英国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"德国\"},{\"name\":\"泰国\"},{\"name\":\"新加坡\"},{\"name\":\"马来西亚\"},{\"name\":\"印度\"},{\"name\":\"意大利\"},{\"name\":\"西班牙\"},{\"name\":\"加拿大\"},{\"name\":\"俄罗斯\"},{\"name\":\"澳大利亚\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"},{\"name\":\"2009\"},{\"name\":\"2008\"},{\"name\":\"2007\"},{\"name\":\"2006\"},{\"name\":\"2005\"},{\"name\":\"更早\"}]}}},{\"id\":2,\"alias\":\"dianshiju\",\"name\":\"电视剧\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"alias\":\"guochan\",\"name\":\"国产剧\"},{\"alias\":\"gangju\",\"name\":\"香港剧\"},{\"alias\":\"taiju\",\"name\":\"台湾剧\"},{\"alias\":\"hanju\",\"name\":\"韩国剧\"},{\"alias\":\"riju\",\"name\":\"日本剧\"},{\"alias\":\"oumei\",\"name\":\"欧美剧\"},{\"alias\":\"haiwai\",\"name\":\"海外剧\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"古装\"},{\"name\":\"战争\"},{\"name\":\"青春偶像\"},{\"name\":\"喜剧\"},{\"name\":\"家庭\"},{\"name\":\"动作\"},{\"name\":\"犯罪\"},{\"name\":\"奇幻\"},{\"name\":\"剧情\"},{\"name\":\"历史\"},{\"name\":\"经典\"},{\"name\":\"乡村\"},{\"name\":\"情景\"},{\"name\":\"商战\"},{\"name\":\"网剧\"},{\"name\":\"其他\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"中国大陆\"},{\"name\":\"中国香港\"},{\"name\":\"中国台湾\"},{\"name\":\"中国澳门\"},{\"name\":\"美国\"},{\"name\":\"法国\"},{\"name\":\"英国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"德国\"},{\"name\":\"泰国\"},{\"name\":\"新加坡\"},{\"name\":\"马来西亚\"},{\"name\":\"印度\"},{\"name\":\"意大利\"},{\"name\":\"西班牙\"},{\"name\":\"加拿大\"},{\"name\":\"俄罗斯\"},{\"name\":\"澳大利亚\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"},{\"name\":\"2009\"},{\"name\":\"2008\"},{\"name\":\"2007\"},{\"name\":\"2006\"},{\"name\":\"2005\"},{\"name\":\"更早\"}]}}},{\"id\":3,\"alias\":\"zongyi\",\"name\":\"综艺\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"alias\":\"ndzy\",\"name\":\"内地综艺\"},{\"alias\":\"gtzy\",\"name\":\"港台综艺\"},{\"alias\":\"rhzy\",\"name\":\"日韩综艺\"},{\"alias\":\"omzy\",\"name\":\"欧美综艺\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"选秀\"},{\"name\":\"情感\"},{\"name\":\"访谈\"},{\"name\":\"播报\"},{\"name\":\"旅游\"},{\"name\":\"音乐\"},{\"name\":\"美食\"},{\"name\":\"纪实\"},{\"name\":\"曲艺\"},{\"name\":\"生活\"},{\"name\":\"游戏互动\"},{\"name\":\"财经\"},{\"name\":\"求职\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"中国大陆\"},{\"name\":\"中国香港\"},{\"name\":\"中国台湾\"},{\"name\":\"中国澳门\"},{\"name\":\"美国\"},{\"name\":\"法国\"},{\"name\":\"英国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"德国\"},{\"name\":\"泰国\"},{\"name\":\"新加坡\"},{\"name\":\"马来西亚\"},{\"name\":\"印度\"},{\"name\":\"意大利\"},{\"name\":\"西班牙\"},{\"name\":\"加拿大\"},{\"name\":\"俄罗斯\"},{\"name\":\"澳大利亚\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"},{\"name\":\"2009\"},{\"name\":\"2008\"},{\"name\":\"2007\"},{\"name\":\"2006\"},{\"name\":\"2005\"},{\"name\":\"更早\"}]}}},{\"id\":4,\"alias\":\"dongman\",\"name\":\"动漫\",\"subClassify\":{\"name\":\"类型\",\"values\":[{\"alias\":\"gcdm\",\"name\":\"国产动漫\"},{\"alias\":\"rbdm\",\"name\":\"日本动漫\"},{\"alias\":\"omdm\",\"name\":\"欧美动漫\"},{\"alias\":\"hwdm\",\"name\":\"海外动漫\"}]},\"filter\":{\"type\":{\"name\":\"剧情\",\"values\":[{\"name\":\"情感\"},{\"name\":\"科幻\"},{\"name\":\"热血\"},{\"name\":\"推理\"},{\"name\":\"搞笑\"},{\"name\":\"冒险\"},{\"name\":\"萝莉\"},{\"name\":\"校园\"},{\"name\":\"动作\"},{\"name\":\"机战\"},{\"name\":\"运动\"},{\"name\":\"战争\"},{\"name\":\"少年\"},{\"name\":\"少女\"},{\"name\":\"社会\"},{\"name\":\"原创\"},{\"name\":\"亲子\"},{\"name\":\"益智\"},{\"name\":\"励志\"},{\"name\":\"其他\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"中国大陆\"},{\"name\":\"中国香港\"},{\"name\":\"中国台湾\"},{\"name\":\"中国澳门\"},{\"name\":\"美国\"},{\"name\":\"法国\"},{\"name\":\"英国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"德国\"},{\"name\":\"泰国\"},{\"name\":\"新加坡\"},{\"name\":\"马来西亚\"},{\"name\":\"印度\"},{\"name\":\"意大利\"},{\"name\":\"西班牙\"},{\"name\":\"加拿大\"},{\"name\":\"俄罗斯\"},{\"name\":\"澳大利亚\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"},{\"name\":\"2009\"},{\"name\":\"2008\"},{\"name\":\"2007\"},{\"name\":\"2006\"},{\"name\":\"2005\"},{\"name\":\"更早\"}]}}}]}",
+        "formVerificationFailed": false,
+        "importType": 0,
+        "isEnable": true,
+        "isFind": true,
+        "lastUpdate": 1739605870566,
+        "listOrder": 0,
+        "ruleDetail": {
+            "classify": "",
+            "director": "//span[text()='导演：']/..//a/text()",
+            "imageUrl": "class.module-poster-bg@class.module-item-pic@tag.img@data-original",
+            "intro": "class.show-desc@text",
+            "name": "tag.h1@text",
+            "playPageUrl": "",
+            "starring": "//span[text()='主演：']/..//a/text()",
+            "status": "//span[text()='连载：']/../div/text()",
+            "updateTime": ""
+        },
+        "ruleFind": {
+            "classify": "",
+            "detailUrl": "tag.a@href",
+            "director": "",
+            "imageUrl": "tag.img@data-original",
+            "intro": "",
+            "name": "class.module-poster-item-title@text",
+            "pageSize": "72",
+            "starring": "",
+            "status": "",
+            "updateTime": "",
+            "videoList": "class.module-poster-item"
+        },
+        "rulePlayList": {
+            "lineList": "class.module-tab-items-box@class.module-tab-item",
+            "lineName": "tag.span@text",
+            "playList": "class.module-play-list@class.module-play-list-content",
+            "playUrl": "tag.a@href",
+            "playUrlList": "tag.a",
+            "playUrlName": "tag.span@text"
+        },
+        "ruleSearch": {
+            "classify": "class.module-card-item-class@text",
+            "detailUrl": "class.module-card-item-poster@href",
+            "director": "",
+            "imageUrl": "tag.img@data-original",
+            "intro": "",
+            "name": "tag.strong@text",
+            "starring": "",
+            "status": "class.module-item-note@text",
+            "updateTime": "",
+            "videoList": "class.module-card-item"
+        },
+        "searchUrl": "/search-{{key}}----------{{page}}---.html",
+        "sourceName": "电影先生",
+        "sourceUrl": "https://电影先生.com"
+    },
+    {
+        "findUrl": "{\"url\":\"/index.php/vod/show/area/{{area}}/class/{{type}}/id/{{id}}/page/{{page}}/year/{{year}}.html\",\"mapping\":{\"type\":\"class\"},\"classify\":[{\"id\":2,\"name\":\"电影\",\"filter\":{\"type\":{\"name\":\"类型\",\"values\":[{\"name\":\"动作\"},{\"name\":\"喜剧\"},{\"name\":\"爱情\"},{\"name\":\"科幻\"},{\"name\":\"恐怖\"},{\"name\":\"剧情\"},{\"name\":\"惊悚\"},{\"name\":\"犯罪\"},{\"name\":\"冒险\"},{\"name\":\"战争\"},{\"name\":\"悬疑\"},{\"name\":\"武侠\"},{\"name\":\"奇幻\"},{\"name\":\"动画\"},{\"name\":\"纪录\"},{\"name\":\"传记\"},{\"name\":\"历史\"},{\"name\":\"歌舞\"},{\"name\":\"灾难\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"},{\"name\":\"香港\"},{\"name\":\"台湾\"},{\"name\":\"韩国\"},{\"name\":\"日本\"},{\"name\":\"美国\"},{\"name\":\"英国\"},{\"name\":\"泰国\"},{\"name\":\"新加坡\"},{\"name\":\"马来西亚\"},{\"name\":\"印度\"},{\"name\":\"法国\"},{\"name\":\"德国\"},{\"name\":\"意大利\"},{\"name\":\"加拿大\"},{\"name\":\"澳大利亚\"},{\"name\":\"俄罗斯\"},{\"name\":\"西班牙\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"}]}}},{\"id\":1,\"name\":\"电视剧\",\"filter\":{\"type\":{\"name\":\"类型\",\"values\":[{\"name\":\"剧情\"},{\"name\":\"悬疑\"},{\"name\":\"爱情\"},{\"name\":\"喜剧\"},{\"name\":\"历史\"},{\"name\":\"犯罪\"},{\"name\":\"动作\"},{\"name\":\"奇幻\"},{\"name\":\"青春\"},{\"name\":\"战争\"},{\"name\":\"科幻\"},{\"name\":\"古装\"},{\"name\":\"冒险\"},{\"name\":\"恐怖\"},{\"name\":\"武侠\"},{\"name\":\"偶像\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"},{\"name\":\"香港\"},{\"name\":\"台湾\"},{\"name\":\"韩国\"},{\"name\":\"日本\"},{\"name\":\"美国\"},{\"name\":\"英国\"},{\"name\":\"泰国\"},{\"name\":\"新加坡\"},{\"name\":\"马来西亚\"},{\"name\":\"印度\"},{\"name\":\"法国\"},{\"name\":\"德国\"},{\"name\":\"意大利\"},{\"name\":\"加拿大\"},{\"name\":\"澳大利亚\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"}]}}},{\"id\":3,\"name\":\"动漫\",\"filter\":{\"type\":{\"name\":\"类型\",\"values\":[{\"name\":\"热血\"},{\"name\":\"冒险\"},{\"name\":\"奇幻\"},{\"name\":\"魔法\"},{\"name\":\"家庭\"},{\"name\":\"剧情\"},{\"name\":\"恐怖\"},{\"name\":\"校园\"},{\"name\":\"搞笑\"},{\"name\":\"青春\"},{\"name\":\"战斗\"},{\"name\":\"科幻\"},{\"name\":\"悬疑\"},{\"name\":\"恋爱\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"日本\"},{\"name\":\"大陆\"},{\"name\":\"国产\"},{\"name\":\"美国\"},{\"name\":\"韩国\"},{\"name\":\"法国\"},{\"name\":\"台湾\"},{\"name\":\"英国\"},{\"name\":\"俄罗斯\"},{\"name\":\"加拿大\"},{\"name\":\"德国\"},{\"name\":\"其他\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"}]}}},{\"id\":4,\"name\":\"综艺\",\"filter\":{\"type\":{\"name\":\"类型\",\"values\":[{\"name\":\"真人秀\"},{\"name\":\"音乐\"},{\"name\":\"家庭\"},{\"name\":\"脱口秀\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"欧美\"},{\"name\":\"香港\"},{\"name\":\"台湾\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"}]}}},{\"id\":5,\"name\":\"体育赛事\",\"filter\":{\"type\":{\"name\":\"类型\",\"values\":[{\"name\":\"足球\"},{\"name\":\"篮球\"},{\"name\":\"网球\"},{\"name\":\"斯诺克\"}]},\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"},{\"name\":\"美国\"},{\"name\":\"英国\"},{\"name\":\"西班牙\"},{\"name\":\"意大利\"},{\"name\":\"德国\"},{\"name\":\"法国\"},{\"name\":\"日本\"},{\"name\":\"韩国\"},{\"name\":\"巴西\"},{\"name\":\"阿根廷\"},{\"name\":\"俄罗斯\"},{\"name\":\"内地\"},{\"name\":\"欧洲\"},{\"name\":\"亚洲\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"},{\"name\":\"2020\"},{\"name\":\"2019\"},{\"name\":\"2018\"},{\"name\":\"2017\"},{\"name\":\"2016\"},{\"name\":\"2015\"},{\"name\":\"2014\"},{\"name\":\"2013\"},{\"name\":\"2012\"},{\"name\":\"2011\"},{\"name\":\"2010\"}]}}},{\"id\":41,\"name\":\"短剧\",\"filter\":{\"area\":{\"name\":\"地区\",\"values\":[{\"name\":\"大陆\"}]},\"year\":{\"name\":\"年份\",\"values\":[{\"name\":\"2025\"},{\"name\":\"2024\"},{\"name\":\"2023\"},{\"name\":\"2022\"},{\"name\":\"2021\"}]}}}]}",
+        "formVerificationFailed": false,
+        "importType": 0,
+        "isEnable": true,
+        "isFind": true,
+        "lastUpdate": 1739605542404,
+        "listOrder": 0,
+        "ruleDetail": {
+            "classify": "",
+            "director": "//strong[text()='导演 :']/../a/text()",
+            "imageUrl": "class.detail-pic@tag.img@data-src",
+            "intro": "id.height_limit@text",
+            "name": "class.slide-info-title@text",
+            "playPageUrl": "",
+            "starring": "//strong[text()='演员 :']/../a/text()",
+            "status": "",
+            "updateTime": ""
+        },
+        "ruleFind": {
+            "classify": "",
+            "detailUrl": "class.public-list-exp@href",
+            "director": "",
+            "imageUrl": "tag.img@data-src",
+            "intro": "class.public-list-subtitle@text",
+            "name": "class.time-title@text",
+            "pageSize": "14",
+            "starring": "",
+            "status": "class.public-list-prb@text",
+            "updateTime": "",
+            "videoList": "class.public-list-box"
+        },
+        "rulePlay": {
+            "urlRegex": "",
+            "webJs": ""
+        },
+        "rulePlayList": {
+            "lineList": "class.anthology-tab@tag.a",
+            "lineName": "//span[@class='badge']/../text()",
+            "playList": "class.anthology-list-play",
+            "playUrl": "tag.a@href",
+            "playUrlList": "tag.li@tag.a",
+            "playUrlName": "text"
+        },
+        "ruleSearch": {
+            "classify": "",
+            "detailUrl": "class.public-list-exp@href",
+            "director": "class.thumb-director@tag.a@text##导演：",
+            "imageUrl": "tag.img@data-src",
+            "intro": "",
+            "name": "class.thumb-txt@text",
+            "starring": "class.thumb-actor@tag.a@text##主演：",
+            "status": "class.public-list-prb@text",
+            "updateTime": "",
+            "videoList": "class.search-box"
+        },
+        "searchUrl": "/index.php/vod/search/page/{{page}}/wd/{{key}}.html",
+        "sourceName": "统一影视",
+        "sourceUrl": "https://www.tyys1.com"
+    }
+]
