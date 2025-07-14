@@ -25,3 +25,5 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CityNews_logo.svg/2560px-CityNews_logo.svg.png",CityNews
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
+http://212.102.60.231/DISNEY_JR/index.m3u8
