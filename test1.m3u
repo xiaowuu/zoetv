@@ -8,7 +8,7 @@ https://e5.thetvapp.to/hls/FoxSports1/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN 
 https://fl31.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 
-https://fl5.moveonjoy.com/ESPN_2/index.m3u8
+https://e5.thetvapp.to/hls/ESPN/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png",TBS 
 https://streamer1.nexgen.bz/TBS/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",TRUTV 
@@ -31,6 +31,7 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
 http://212.102.60.231/DISNEY_JR/index.m3u8
+
 
 
 
