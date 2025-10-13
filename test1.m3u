@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/344px-Major_League_Baseball_logo.svg.png?20190424101007",MLB 
 https://d1yqxv6gx128ca.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/4a61fa9e-d327-45c2-9801-5db398a5019b/0.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network 
+https://fl7.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA 
 https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/250px-Fox_Sports_wordmark_logo.svg.png",FOX SPORT 
@@ -43,4 +45,5 @@ http://212.102.60.231/DISNEY_JR/index.m3u8
 https://livetv-fa.tubi.video/kcpq/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet NY
 https://fl7.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
+
 
