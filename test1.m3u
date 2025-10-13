@@ -40,7 +40,8 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
 http://212.102.60.231/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",TEST
-https://v5.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+https://e5.thetvapp.to/hls/WNYWDT1/mono.m3u8
+
 
 
 
