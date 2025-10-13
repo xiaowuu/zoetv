@@ -39,8 +39,9 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
 http://212.102.60.231/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",TEST
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-argentina-us-ar.svg",TEST
+https://livetv-fa.tubi.video/kcpq/index.m3u8
+
 
 
 
