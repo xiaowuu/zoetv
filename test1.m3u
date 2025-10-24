@@ -43,8 +43,8 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
 http://212.102.60.231/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX 13
-https://livetv-fa.tubi.video/kcpq/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX 11
+https://livetv-fa.tubi.video/kttv/index_1.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet NY
 https://fl41.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet East
@@ -53,6 +53,7 @@ https://e4.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8?token=CQkSE8Uzyg
 https://v16.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8?token=t9muLXeDgnrglMAiRmLpXw&expires=1761366501&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet Pacific
 https://e2.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8?token=5L5EhPPeq9yPAzjzYr0Tmg&expires=1761366605&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+
 
 
 
