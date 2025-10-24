@@ -47,8 +47,8 @@ http://212.102.60.231/DISNEY_JR/index.m3u8
 https://livetv-fa.tubi.video/kcpq/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet NY
 https://fl41.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet ON
-https://v8.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8?token=LppfJ1CqsoV1mZr4_tynOw&expires=1761366066&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet East
+https://e4.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8?token=CQkSE8UzygaF2GuiNRuiJw&expires=1761366406&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
 
 
 
