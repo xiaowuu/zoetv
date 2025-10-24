@@ -51,6 +51,9 @@ https://fl41.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
 https://e4.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8?token=CQkSE8UzygaF2GuiNRuiJw&expires=1761366406&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet One
 https://v16.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8?token=t9muLXeDgnrglMAiRmLpXw&expires=1761366501&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet Pacific
+https://e2.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8?token=5L5EhPPeq9yPAzjzYr0Tmg&expires=1761366605&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+
 
 
 
