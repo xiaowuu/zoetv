@@ -1,9 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•TNT",「B站」CS 2
-https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•CCTV5",「B站」英雄联盟
-https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟙
-http://live.iill.top/huya.php?id=660000
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟚
-http://live.iill.top/huya.php?id=660001
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/344px-Major_League_Baseball_logo.svg.png?20190424101007",MLB 
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network 
+https://fl41.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/qFNRJLb.png",Fubo
+https://livetv-fa.tubi.video/fubo/6.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA 
+https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/250px-Fox_Sports_wordmark_logo.svg.png",FOX SPORT 
+http://212.102.60.10/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN1
+https://fl31.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN2
+https://fl31.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN3
+https://fl31.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN4
+https://fl31.moveonjoy.com/TSN_4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN5
+https://fl31.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 
+https://fl41.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png",TBS 
+https://streamer1.nexgen.bz/TBS/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",TRUTV 
+https://streamer1.nexgen.bz/TRUTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png",HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/250px-HGTV_2010.svg.png",HGTV
+http://212.102.60.231/HGTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN 
+https://e5.thetvapp.to/hls/CNN/mono.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News Network
+https://livetv-fa.tubi.video/cbc2/master1080P.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",CBC Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/1200px-TSC_logo.svg.png",TSC
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CityNews_logo.svg/2560px-CityNews_logo.svg.png",CityNews
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CHCTsmall_2017.jpg/250px-CHCTsmall_2017.jpg",CHCOTV
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
+http://212.102.60.231/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX 11
+https://livetv-fa.tubi.video/kttv/index_1.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet NY
+https://fl41.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet East
+https://e4.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8?token=CQkSE8UzygaF2GuiNRuiJw&expires=1761366406&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet One
+https://v16.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8?token=t9muLXeDgnrglMAiRmLpXw&expires=1761366501&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet Pacific
+https://e2.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8?token=5L5EhPPeq9yPAzjzYr0Tmg&expires=1761366605&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+
+
+
+
+
+
+
