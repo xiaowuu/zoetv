@@ -9,8 +9,6 @@ https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 https://streamer1.nexgen.bz/TBS/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",TRUTV 
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN 
-https://e5.thetvapp.to/hls/CNN/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News Network
 https://livetv-fa.tubi.video/cbc2/master1080P.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",CBC Global News
@@ -29,6 +27,7 @@ https://e4.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8?token=CQkSE8Uzyg
 https://v16.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8?token=t9muLXeDgnrglMAiRmLpXw&expires=1761366501&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",Sportsnet Pacific
 https://e2.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8?token=5L5EhPPeq9yPAzjzYr0Tmg&expires=1761366605&user_id=ZDhsSWFxTVFCdlBzNmE3dGRYRXh4bmtGemlUcHc2c1Fwbno0VnBKbg==
+
 
 
 
