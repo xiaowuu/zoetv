@@ -23,12 +23,13 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 https://livetv-fa.tubi.video/wnyw/index_1.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX 11
 https://livetv-fa.tubi.video/kttv/index_1.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",MLB
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",MLB
 https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",TNT SPORT
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png",TNT SPORT
 https://top1new.newkso.ru/top1/eplayerdigitvbt1/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",bluejays
 https://gg.poocloud.in/bluejays/tracks-v1a1/mono.ts.m3u8
+
 
 
 
