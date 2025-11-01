@@ -17,16 +17,11 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CityNews_logo.svg/2560px-CityNews_logo.svg.png",CityNews
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CHCTsmall_2017.jpg/250px-CHCTsmall_2017.jpg",CHCOTV
-https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX 5
 https://livetv-fa.tubi.video/wnyw/index_1.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX 11
-https://livetv-fa.tubi.video/kttv/index_1.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",Test3
-https://lb6.strmd.top/secure/PkZtCwDQdchqCqzMirtVbQmVUxfkGbys/alpha/stream/toronto-blue-jays-vs-los-angeles-dodgers/1/playlist.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",bluejays
 https://gg.poocloud.in/bluejays/tracks-v1a1/mono.ts.m3u8
+
 
 
 
