@@ -23,8 +23,11 @@ https://livetv-fa.tubi.video/wnyw/index_1.m3u8
 https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",Test1
 https://wikinew.newkso.ru/wiki/sportsneteast/mono.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",Test2
+https://windnew.newkso.ru/wind/premium407/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",bluejays
 https://gg.poocloud.in/bluejays/tracks-v1a1/mono.ts.m3u8
+
 
 
 
