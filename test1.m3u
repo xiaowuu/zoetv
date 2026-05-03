@@ -4,7 +4,7 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/qFNRJLb.png",Fubo
 https://livetv-fa.tubi.video/fubo/6.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA 
-https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+https://e1.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8?token=LRAuwkcaWjPvFFG7PChHfw&expires=1777865527&user_id=STVNZEpjOXhZUnFUWnlOV1I3Q3IzQ2kxV29NcjV4VkNLSHNSSWhKcg==
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png",TBS 
 https://streamer1.nexgen.bz/TBS/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",TRUTV 
