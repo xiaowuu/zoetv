@@ -21,9 +21,11 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://livetv-fa.tubi.video/wnyw/index_1.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX Sport
 https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",BBC
-https://lb12.strmd.st/secure/UijDlbOUGblakbZkaCWuBgVDCOLulirU/rtmp/stream/UoNpgxJkMIwUkdUd7xgutI44B1Cy-77Yd2-ZgeuDCVth2HjxOC4o96IjhPnIqqfty_64awGTYyo/1/high/mono.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",cctv5
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",BBC-1
+https://lb17.strmd.st/secure/DPdXcqPlFTAeUiFtqweAvDXXeZyBxHix/rtmp/stream/62b7ndMHM1zBrobJiVhGoRsNZ8QWzTrqMZbqvaYkjGDFIb3SASsNkh7Kchj0MvgjpRQRKMtsIh5lcmm0njye2xs/1/low/mono.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",BBC-2
+https://vishnu.indianservers.st/secure/pNosKuzBHBZSfkOYKKpFaMlDhncjfynl/1781386200/1781420400/sanantoniospurs/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",CCTV-5
 https://live12.xiazhix1.top/live/85042987.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",bluejays
 https://k1.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8?token=gq6KsxSQq_d39uumVtf9SQ&expires=1779435206&user_id=Q20zSGV1cUREZnQyRms0b3VUWktibE9tM1dxdUhva05ENHBiVWlHeQ==
