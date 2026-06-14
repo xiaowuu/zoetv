@@ -21,8 +21,8 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://livetv-fa.tubi.video/wnyw/index_1.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",FOX Sport
 https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",Test1
-https://wikinew.newkso.ru/wiki/sportsneteast/mono.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",BBC
+https://lb12.strmd.st/secure/UijDlbOUGblakbZkaCWuBgVDCOLulirU/rtmp/stream/UoNpgxJkMIwUkdUd7xgutI44B1Cy-77Yd2-ZgeuDCVth2HjxOC4o96IjhPnIqqfty_64awGTYyo/1/high/mono.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/gRrytbQ.png",cctv5
 https://live12.xiazhix1.top/live/85042987.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",bluejays
